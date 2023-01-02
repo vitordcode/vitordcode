@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end Developing
 - 🌱 I’m currently learning React and React Native
 
-<p align="center">
+<p>
 <br>
 <a href="https://www.facebook.com/vitordepaula01"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://instagram.com/vitordepaula1"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
