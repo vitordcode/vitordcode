@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vitor de Paula
-- 👀 I’m interested in Front-end Developing
-- 🌱 I’m currently learning React and React Native
+- 👀 I am currently a freelancer developing web pages
+- 🌱 I'm currently focused on NextJS, Tailwind CSS.
 
 <p>
 <br>
